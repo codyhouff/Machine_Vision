@@ -101,7 +101,7 @@ G
 %  at pixel(X, Y)=(4, 5) 
 % (1,1) is a the top left corner X axis points down and Y axis to the right 
 
-z = [124 127 128 126 1/27 125 125 123 121]'; 
+z = [124 127 128 126 127 125 125 123 121]'; 
 
 hx = [-1 -2 -1 0 0 0 1 2 1];
 hy = [-1 0 1 -2 0 2 -1 0 1 ];
